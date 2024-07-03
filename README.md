@@ -7,3 +7,5 @@ This resource allows you to modify a config file to place blips anywhere on the 
 There are 2 examples already within the config to help you along the way.
 
 As always, feel free to join our new Discord for support. This is our first resource of many that we are releasing to the public.
+
+Join our Discord here for support: https://discord.gg/vPHEfh3hQa
