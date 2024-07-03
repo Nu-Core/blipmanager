@@ -10,6 +10,7 @@ As always, feel free to join our new Discord for support. This is our first reso
 
 Join our Discord here for support: https://discord.gg/vPHEfh3hQa
 
+--
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
